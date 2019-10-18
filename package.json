@@ -1,7 +1,7 @@
 {
   "name": "lazysheet",
-  "version": "0.2.1",
-  "description": "CSS Library.",
+  "version": "0.2.2",
+  "description": "Dictionary Style CSS Library",
   "main": "index.js",
   "scripts": {
 		"help": "gulp -S",
