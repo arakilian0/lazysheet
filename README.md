@@ -1,21 +1,42 @@
 # lazysheet.css
 
-:zzz: CSS Library.
+:zzz: Dictionary Style CSS Library
+
 [![Build Status](https://travis-ci.com/arakilian0/lazysheet.svg?branch=master)](https://travis-ci.com/arakilian0/lazysheet) [![GitHub release](https://img.shields.io/github/release/arakilian0/lazysheet.svg)](https://github.com/arakilian0/lazysheet/releases/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/arakilian0/lazysheet/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/arakilian0/lazysheet/blob/master/CONTRIBUTING.md)
+
+## CDN
+coming soon...
+
+## Documentation
+coming soon...
 
 ## Installation
 ```
-coming soon...
+git clone https://github.com/arakilian0/lazysheet.git
+```
+```
+cd lazysheet
+```
+```
+npm install
+```
+
+## Test
+```
+npm run test
 ```
 
 ## Usage
 ```
-coming soon...
+npm run start
+```
+```
+npm run build
 ```
 
 ## Help
 ```
-coming soon...
+npm run help
 ```
 
 ## License
