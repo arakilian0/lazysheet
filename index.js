@@ -1,3 +1,5 @@
+const print = console.log;
+
 module.exports  = function() {
-  console.log('coming soon...');
+  print('coming soon...');
 };

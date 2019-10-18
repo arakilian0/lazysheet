@@ -1,12 +1,34 @@
 {
   "name": "lazysheet",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CSS Library.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+		"help": "gulp -S",
+		"test": "gulp test -S",
+		"start": "gulp start -S",
+		"build": "gulp build -S"
   },
-  "keywords": ["css", "library"],
+  "keywords": [
+    "css",
+    "library"
+  ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arakilian0/lazysheet.git"
+	},
+	"homepage": "https://github.com/arakilian0/lazysheet#readme",
+	"bugs": {
+		"url": "https://github.com/arakilian0/lazysheet/issues"
+	},
   "author": "Michael Arakilian",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "js-yaml": "^3.13.1",
+    "node-sass": "^4.12.0"
+  }
 }

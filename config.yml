@@ -1,0 +1,40 @@
+pug:
+  all: "src/**/**/**/**/**/*.pug"
+  options:
+    pretty: true
+  output:
+    path: "build"
+  srcfiles:
+  - "src/index.pug"
+
+sass:
+  all: "src/style/**/**/**/**/**/*.sass"
+  options:
+    expanded: true
+  output:
+    path: "build/css"
+    copy: "build/sass"
+  srcfiles:
+  - "src/style/lazysheet.sass"
+
+js:
+  all: "src/script/**/**/**/**/**/*.js"
+  output:
+    copy: "build/js"
+
+localhost:
+  reload:
+    html: "build/**/**/**/**/**/*.html"
+    css: "build/css/**/**/**/**/**/*.css"
+    js: "build/js/**/**/**/**/**/*.js"
+  options:
+    server: "build"
+    open: true
+    notify: false
+    logPrefix: "lazysheet-v0.2.0"
+    logLevel: "debug"
+    logFileChanges: true
+    logConnections: true
+    port: 8000
+    ui:
+      port: 8080

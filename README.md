@@ -1,11 +1,21 @@
 # lazysheet.css
 
 :zzz: CSS Library.
-<!-- [![Build Status](https://travis-ci.com/arakilian0/gulpify.svg?branch=master)](https://travis-ci.com/arakilian0/gulpify) [![GitHub release](https://img.shields.io/github/release/arakilian0/gulpify.svg)](https://github.com/arakilian0/gulpify/releases/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/arakilian0/gulpify/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/arakilian0/gulpify/blob/master/CONTRIBUTING.md) -->
+[![Build Status](https://travis-ci.com/arakilian0/lazysheet.svg?branch=master)](https://travis-ci.com/arakilian0/lazysheet) [![GitHub release](https://img.shields.io/github/release/arakilian0/lazysheet.svg)](https://github.com/arakilian0/lazysheet/releases/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/arakilian0/lazysheet/blob/master/LICENSE.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/arakilian0/lazysheet/blob/master/CONTRIBUTING.md)
 
 ## Installation
 ```
-npm install lazysheet
+coming soon...
+```
+
+## Usage
+```
+coming soon...
+```
+
+## Help
+```
+coming soon...
 ```
 
 ## License
